@@ -1,0 +1,66 @@
+body {
+    position: relative;
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fget.pxhere.com%2Fphoto%2Ftable-landscape-sea-water-horizon-black-and-white-sky-photography-chair-lake-travel-reflection-symbol-entrance-calm-religion-asia-ancient-landmark-historic-furniture-monochrome-tourism-gate-japan-zen-religious-temple-japanese-shrine-tori-torii-kyoto-culture-famous-heritage-shinto-traditional-b-w-still-life-photography-product-design-monochrome-photography-biwa-1374870.jpg&f=1&nofb=1") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;     
+    }
+
+img.rounded {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 240px;
+    width: 240px;
+    border-radius: 50%;
+    border: 3px solid black;
+    }
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkred;
+    -webkit-text-stroke: 0.25px darkgreen;
+    font-size: 45px;
+    font-style: oblique;
+    font-weight: 800;
+    }
+    
+h3 {
+    display: none;
+    color: black;
+	font-size: 47px;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 800;
+    }
+
+h4 {
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 800;
+    }
+
+#topics {
+    color: black;
+    font-size: 22px;
+    font-style: oblique;
+    font-weight: 600;
+    text-decoration: underline;     
+    text-decoration-color: darkred;
+    }
+
+#resto {
+    color: black;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    }

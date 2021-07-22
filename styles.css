@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://wallpapertag.com/wallpaper/full/2/f/e/519365-large-japanese-scenery-wallpaper-2048x1401.jpg");
+}
+
+#thirdDiv {
+    background-attachment: fixed;
+    margin: 10px auto;
+    background-position: center;
+    background-color: skyblue;
+    width: 500px; 
+    height: 900px;
+    border: 2px solid black;
+    padding: 50px;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+h1 {
+    color:orangered;
+}
+
+div {
+    text-align: center;
+}
